@@ -1,0 +1,9 @@
+.chat-window {
+  outline: 1px solid red;
+  width: 70%;
+}
+
+#msgHeader {
+  color: slateblue;
+  font-size: 2.5em;
+}
